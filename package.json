@@ -1,0 +1,17 @@
+{
+  "name": "flexBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/godrix/flexblog.git",
+  "author": "Carlos Godri <cggodri@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.2.0"
+  }
+}
